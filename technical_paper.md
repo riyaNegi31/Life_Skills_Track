@@ -39,3 +39,8 @@ CSS has to finish loading before the page can be styled, so incomplete CSS can h
 ### HTML → Structure → Style → Layout → Paint → Display.
 
 It’s like building a house: you start with the structure, decorate it, decide where the furniture goes, and finally, you move in and enjoy it! 🏡
+
+### References
+#### Online Articles and Resources:
+- [Browser Rendering by Medium](https://engineering.teknasyon.com/what-is-the-dom-how-does-html-rendering-happen-in-browsers-cbeb12bdfea6)
+- [Renders the Pages with DOM CSSOM by xenonstack](https://www.xenonstack.com/blog/web-browser-renders)
